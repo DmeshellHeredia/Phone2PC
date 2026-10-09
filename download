@@ -1,0 +1,7 @@
+*.log
+*.apk
+*.zip
+.env
+*.key
+*.pem
+node_modules/
